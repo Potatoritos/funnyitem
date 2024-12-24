@@ -1,0 +1,1 @@
+function funnyitem:parry/tick
