@@ -1,7 +1,7 @@
 execute if score @s funnyitem_parry_cooldown matches 1.. run return run function funnyitem:parry/display_cooldown
 
 scoreboard players add @s funnyitem_parry_timer 0
-execute if score @s funnyitem_parry_timer matches ..0 run function funnyitem:parry/start
+execute if score @s funnyitem_parry_timer matches ..0 run return run function funnyitem:parry/start
 
 say active_tick
 
@@ -10,7 +10,7 @@ say active_tick
 # tag @s remove funnyitem_parry_deflecting
 # execute as @s[tag=funnyitem_parry_deflected] run return run function funnyitem:parry/hit
 
-execute as @s[nbt={HurtTime:9s}] run return run function funnyitem:parry/hit/hit
+execute if entity @s[nbt={HurtTime:9s}] run return run function funnyitem:parry/hit/hit
 
 execute if score @s funnyitem_parry_timer matches 1 run return run function funnyitem:parry/fail
 
