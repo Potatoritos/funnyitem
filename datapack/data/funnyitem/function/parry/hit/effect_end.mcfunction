@@ -1,0 +1,2 @@
+attribute potatoritos minecraft:attack_damage modifier remove funnyitem:parry_hit
+attribute potatoritos minecraft:movement_speed modifier remove funnyitem:parry_hit

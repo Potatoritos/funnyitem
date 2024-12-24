@@ -6,8 +6,8 @@ scoreboard players set 20 funnyitem_math 20
 scoreboard players set 1e9 funnyitem_math 1000000000
 
 scoreboard objectives add funnyitem_settings dummy
-scoreboard players set parry_normal_cooldown funnyitem_settings 40
-scoreboard players set parry_precise_cooldown funnyitem_settings 40
-scoreboard players set parry_fail_cooldown funnyitem_settings 60
+scoreboard players set parry_normal_cooldown funnyitem_settings 60
+scoreboard players set parry_precise_cooldown funnyitem_settings 60
+scoreboard players set parry_fail_cooldown funnyitem_settings 120
 
 function funnyitem:parry/load
