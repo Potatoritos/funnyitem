@@ -9,3 +9,6 @@ scoreboard objectives add funnyitem_is_sneaking minecraft.custom:minecraft.sneak
 
 function funnyitem:parry/load
 function funnyitem:math/load
+
+execute as @a run function funnyitem:version
+
