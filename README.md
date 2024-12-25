@@ -11,7 +11,7 @@ Note that you cannot use offhand shields while holding an able-to-parry sword.
 Hold right click to parry for up to 0.3s. Getting hit in this window ends the parry
 and grants buffs based on the damage received.
 
-Landing a Precise hit (getting hit within 0.1s) reduces the amount of damage needed
+Landing a Precise hit (getting hit within 0.1s) halves the amount of damage needed
 to attain buffs.
 
 Buffs gained, given hit damage intervals (in hearts) and hit type: 
