@@ -4,6 +4,8 @@ Adds parrying to minecraft 1.21.4.
 
 Make a sword able to parry by combining it with a shield in a smithing table.
 
+Note that you cannot use offhand shields while holing an able-to-parry sword.
+
 ## Parrying
 
 Hold right click to parry for up to 0.3s. Getting hit in this window ends the parry
@@ -12,18 +14,18 @@ and grants buffs based on the damage received.
 Landing a Precise hit (getting hit within 0.1s) reduces the amount of damage needed
 to attain buffs.
 
-Buffs gained, given hit damage (in hearts) and hit type: 
+Buffs gained, given hit damage intervals (in hearts) and hit type: 
 
 | Normal hit | Precise hit | Buffs |
 | ---------- | ----------- | ----- |
-| [0, 1) | [0, 0.5) | +1.5❤️attack damage, +20% movement speed (1s) |
-| [1, 4) | [0.5, 2) | +6 attack damage, +40% movement speed (1s) |
-| [4, 8) | [2, 4) | +9 attack damage, +40% movement speed (1s) |
-| [8, 16) | [4, 8) | +12 attack damage, +40% movement speed (1.5s) |
-| [16, 64) | [8, 32) | +15 attack damage, +40% movement speed (2s) |
-| [64, ∞) | [32, ∞) | +18 attack damage, +40% movement speed (2s) |
+| [0, 1) | [0, 0.5) | +1.5❤️ attack damage, +20% movement speed (1s) |
+| [1, 4) | [0.5, 2) | +6❤️ attack damage, +40% movement speed (1s) |
+| [4, 8) | [2, 4) | +9❤️ attack damage, +40% movement speed (1s) |
+| [8, 16) | [4, 8) | +12❤️ attack damage, +40% movement speed (1.5s) |
+| [16, 64) | [8, 32) | +15❤️ attack damage, +40% movement speed (2s) |
+| [64, ∞) | [32, ∞) | +18❤️ attack damage, +40% movement speed (2s) |
 
-(For reference: 1 strength level = +1.5 attack damage, and 1 speed level = +20% movement speed)
+(For reference: 1 strength level = +1.5❤️ attack damage, and 1 speed level = +20% movement speed)
 
 Cooldowns (default—these are changeable in settings):
 | Hit type | Cooldown |
