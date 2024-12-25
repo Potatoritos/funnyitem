@@ -1,9 +1,9 @@
 {
     "type": "minecraft:smithing_transform",
-    "base": "minecraft:iron_sword",
+    "base": "minecraft:wooden_sword",
     "addition": "minecraft:shield",
     "result": {
-        "id": "minecraft:iron_sword",
+        "id": "minecraft:wooden_sword",
         "components": {
             "minecraft:custom_data": {
                 "funnyitem_sword_parry": true

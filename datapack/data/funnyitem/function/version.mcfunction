@@ -1,1 +1,1 @@
-tellraw @s "commit a52b8d68d420dc663981feeff4ffd54444d0f9cc"
+tellraw @s "commit 10d198784795abb97b0ef7bb1a9e562cb4a16996"
