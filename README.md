@@ -4,7 +4,7 @@ Adds parrying to minecraft 1.21.4.
 
 Make a sword able to parry by combining it with a shield in a smithing table.
 
-Note that you cannot use offhand shields while holing an able-to-parry sword.
+Note that you cannot use offhand shields while holding an able-to-parry sword.
 
 ## Parrying
 
