@@ -1,0 +1,5 @@
+scoreboard players set parry_normal_cooldown funnyitem_settings 60
+scoreboard players set parry_precise_cooldown funnyitem_settings 60
+scoreboard players set parry_fail_cooldown funnyitem_settings 120
+
+scoreboard players set is_initialized funnyitem_settings 1

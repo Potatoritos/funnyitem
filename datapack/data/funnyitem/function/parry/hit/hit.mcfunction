@@ -9,8 +9,8 @@ scoreboard players operation .dmg_int_part funnyitem_parry_hit_dmg /= 20 funnyit
 execute if entity @s[tag=funnyitem_parry_deflected] run scoreboard players add @s funnyitem_stats_parry_deflects 1
 scoreboard players add @s funnyitem_stats_parry_hits 1
 
-tellraw @s [{"text":"HurtTime: "},{"entity":"@s","nbt":"HurtTime"}]
-tellraw @s [{"text":"timer: "},{"score":{"name":"@s","objective":"funnyitem_parry_timer"}}]
+# tellraw @s [{"text":"HurtTime: "},{"entity":"@s","nbt":"HurtTime"}]
+# tellraw @s [{"text":"timer: "},{"score":{"name":"@s","objective":"funnyitem_parry_timer"}}]
 
 
 # note: this 7.. is also present in parry/deflect
