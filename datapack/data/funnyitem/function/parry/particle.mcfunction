@@ -1,0 +1,27 @@
+#Particles Generated with: Cloud Wolf's Particle Grapher
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~0.000 ~0.5 ~2.000 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~1.771 ~0.5 ~0.929 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~1.645 ~0.5 ~-1.137 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~-0.243 ~0.5 ~-1.985 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~-1.871 ~0.5 ~-0.706 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~-1.494 ~0.5 ~1.329 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~0.483 ~0.5 ~1.941 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~1.943 ~0.5 ~0.473 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~1.322 ~0.5 ~-1.501 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~-0.716 ~0.5 ~-1.868 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~-1.986 ~0.5 ~-0.233 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~-1.129 ~0.5 ~1.651 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~0.938 ~0.5 ~1.767 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~2.000 ~0.5 ~-0.010 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~0.920 ~0.5 ~-1.776 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~-1.146 ~0.5 ~-1.639 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~-1.984 ~0.5 ~0.253 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~-0.697 ~0.5 ~1.875 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~1.337 ~0.5 ~1.488 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~1.938 ~0.5 ~-0.493 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~0.464 ~0.5 ~-1.945 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~-1.508 ~0.5 ~-1.314 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~-1.864 ~0.5 ~0.725 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~-0.224 ~0.5 ~1.987 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~1.656 ~0.5 ~1.121 0 0 0 0 1 force @a
+$particle dust{color:[$(r),$(g),$(b)],scale:$(scale)} ~1.762 ~0.5 ~-0.946 0 0 0 0 1 force @a
