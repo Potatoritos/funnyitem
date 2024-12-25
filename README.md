@@ -42,8 +42,8 @@ This damage value further increases on certain (stacking) conditions:
 
 | Condition | Damage NBT value increase |
 | --------- | ------------------------- |
-| The arrow deals ≥2 hearts of damage | 1.5 |
-| The arrow deals ≥3 hearts of damage | 1.5 |
+| The incoming arrow deals ≥2 hearts of damage | 1.5 |
+| The incoming arrow deals ≥3 hearts of damage | 1.5 |
 | You landed a precise hit | 1.5 |
 
 Additional mechanics:
